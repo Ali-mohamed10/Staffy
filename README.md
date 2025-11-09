@@ -192,9 +192,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Ali Mohamed - [@your_twitter](https://twitter.com/your_twitter) - ali.dev400@gmail.com
-
-Project Link: [https://github.com/yourusername/staffy](https://github.com/yourusername/staffy)
+Ali Mohamed - ali.dev400@gmail.com
 
 ## Acknowledgements
 
